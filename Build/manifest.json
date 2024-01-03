@@ -1,0 +1,10 @@
+{
+  "name": "Audio Accessibility",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Sakiskid/LC-ReducePipeLeakSFX",
+  "description": "Change or mute specific audio levels, will update with more info soon",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "LethalSettings-1.2.2.0"
+  ]
+}
